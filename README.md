@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is Philip Heindel. I am a recetly graduated software engineer. I earned my Bachelor or Science in Computer Science from Purdue University Fort Wayne. I presently work as an Associate Software Engineer at Idemia Identity & Security. 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipheindel&theme=buefy&layout=compact)
 <!--
 **philipheindel/philipheindel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
