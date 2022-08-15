@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there 
 
 My name is Philip Heindel. I work as a Software Engineer 1 at Idemia Identity & Security providing support and continuing development on legacy applications and systems. 
 
