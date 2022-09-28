@@ -1,6 +1,6 @@
 ### Hello there 
 
-My name is Philip Heindel. I work as a Software Engineer 1 at Idemia Identity & Security providing support and continuing development on legacy applications and systems. 
+My name is Philip Heindel. I work as a Software Engineer II at Idemia Identity & Security providing support and continuing development on legacy applications and systems. 
 
 I studied Comptuer Science with a focus on Software Engineering at Purdue University Fort Wayne. In 2020, I earned my Bachelor of Science degree in Computer Science.
 
