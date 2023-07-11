@@ -6,4 +6,4 @@ I studied Comptuer Science with a focus on Software Engineering at Purdue Univer
 
 Outside of my job as a Software Engineer, my main software development focus is on developing a Python based API with [FastAPI](https://fastapi.tiangolo.com/) for managing dedicated Minecraft game servers I setup with [LinuxGSM](https://linuxgsm.com/). Once I have the API completed, I then plan to develop a web app using React that would interface with the API for maanging the server. Both of these projects were partially started as avenues to learn Python (and FastAPI) as well as React.
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipheindel&theme=buefy&layout=compact)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipheindel&theme=buefy&layout=compact)
